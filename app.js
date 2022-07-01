@@ -1,2 +1,2 @@
-console.log('hello')
-console.log('world')
+console.log('izzat')
+console.log('aliev')
