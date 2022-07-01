@@ -1,2 +1,2 @@
-console.log('hell')
-console.log('paradise')
+console.log('izzy')
+console.log('pissy')
