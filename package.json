@@ -1,0 +1,21 @@
+{
+  "name": "modulenode",
+  "version": "1.0.0",
+  "description": "nodeModule for training",
+  "main": "index.js",
+  "scripts": {
+    "start": "node http.js",
+    "dev": "nodemon http.js"
+  },
+  "author": "Izzat Aliyev",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "express-session": "^1.17.3"
+  },
+  "devDependencies": {
+    "codemon": "^0.1.31-development"
+  }
+}
