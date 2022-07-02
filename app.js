@@ -1,2 +1,2 @@
 console.log('izzat')
-console.log('aliba')
+console.log('alibax')
