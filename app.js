@@ -1,2 +1,2 @@
 console.log('izzat')
-console.log('aliev')
+console.log('aliba')
