@@ -1,2 +1,2 @@
 console.log('izzatund')
-console.log('aliev')
+console.log('kiril')
