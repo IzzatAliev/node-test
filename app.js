@@ -1,2 +1,3 @@
-console.log('hell')
-console.log('worldd')
+
+console.log('izzundali')
+console.log('aliev')
